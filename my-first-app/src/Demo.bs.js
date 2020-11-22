@@ -14,4 +14,5 @@ throw {
 
 exports.decision = decision;
 exports.resonse = resonse;
+exports.div = div;
 /* resonse Not a pure module */
